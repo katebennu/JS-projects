@@ -1,0 +1,46 @@
+div.mainFrame {
+  background-color: rgb(189, 204, 226);
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 30px;
+}
+div.quoteFrame {
+  background-color: rgb(230, 213, 247);
+  margin-top: 40px;
+  padding: 20px;
+  border-radius:20px;
+}
+div.quotebox {
+  background-color: white;
+  padding: 20px;
+  border-radius:20px;
+}
+div.buttonFrame {
+  background-color: white;
+  margin-top: 30px;
+  padding: 8px;
+  width: 150px;
+  border-radius:20px;
+  display: inline-block;
+}
+div.button {
+  background-color: rgb(230, 213, 247);
+  padding: 8px;
+  border-radius:20px;
+  text-align: center;
+  cursor: pointer;
+}
+div.socialFrame {
+  background-color: rgb(230, 213, 247);
+  margin-top: 10px;
+  margin-left: 30px;
+  padding: 8px;
+  width: 100px;
+  border-radius:20px;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+}
+#plink {
+  text-align: right;
+}

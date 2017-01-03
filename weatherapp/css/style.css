@@ -1,0 +1,9 @@
+#pad {
+  background-color: grey;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 30px;
+}
+#weather {
+  text-align: center;
+}
